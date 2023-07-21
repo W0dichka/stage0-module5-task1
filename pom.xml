@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.epam.stage0</groupId>
-    <artifactId>algorithms_and_data_structures</artifactId>
+    <artifactId>stage0.module5.algorithms_and_data_structures.task1</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
